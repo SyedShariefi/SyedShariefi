@@ -32,7 +32,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Shit I like ⚒️</h2>
+<h2 align="center">⚒️ Stuff I like ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=sublime,bash,cs,css,flutter,go,html,java,js,jquery,lua,md" />
